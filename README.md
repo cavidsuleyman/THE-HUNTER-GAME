@@ -40,6 +40,8 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 ![Burada ekran görüntüsü var idi](./screen/screen-7.png)
 ![Burada ekran görüntüsü var idi](./screen/screen-8.png)
 ![Burada ekran görüntüsü var idi](./screen/screen-9.png)
+![Burada ekran görüntüsü var idi](./screen/screen-10.png)
+![Burada ekran görüntüsü var idi](./screen/screen-11.png)
 
 
 
