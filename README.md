@@ -14,7 +14,7 @@ Salam xoş gördük bu dəfə isə HTML-5 və CSS-3 vasitəsilə sadə bir oyun 
 > **ADDİM-2:**  yaranan `THE HUNTER GAME` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
 > **ADDİM-4:**  ana qovluqda olan `face-page.html` fayılını işə salın <br/>
-> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/MILLIONAIRE-GAME/archive/refs/heads/master.zip) click edin <br/>
+> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/THE-HUNTER-GAME/archive/refs/heads/master.zip) click edin <br/>
 
 
 ## TEXNOLOGİYA
