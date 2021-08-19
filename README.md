@@ -10,10 +10,10 @@ Salam xoş gördük bu dəfə isə HTML-5 və CSS-3 vasitəsilə sadə bir oyun 
 ## İSTİFADƏ QAYDASI
 
 
-> **ADDIM-1:**   `git clone https://github.com/cavidsuleyman/MILLIONAIRE-GAME.git` <br/>
-> **ADDİM-2:**  yaranan `MILLIONAIRE-GAME` qovluğuna daxil olun <br/>
+> **ADDIM-1:**   `https://github.com/cavidsuleyman/THE-HUNTER-GAME.git` <br/>
+> **ADDİM-2:**  yaranan `THE HUNTER GAME` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
-> **ADDİM-4:**  ana qovluqda olan `index.html` fayılını işə salın <br/>
+> **ADDİM-4:**  ana qovluqda olan `face-page.html` fayılını işə salın <br/>
 > **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/MILLIONAIRE-GAME/archive/refs/heads/master.zip) click edin <br/>
 
 
@@ -24,8 +24,9 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 |No|Texnika   |Təyinatı                                       |
 |--|----------|-----------------------------------------------|
 |1 |HTML      |Layihə skletinin qurulması                     | 
-|2 |GİT       |Layihənin versiya kontrolunun idarə olunması   |
-|3 |VSCode    |Layihədə istifadə edilən mətn redaktoru        |
+|2 |CSS       |Layihənin versiya kontrolunun idarə olunması   |
+|3 |GİT       |Layihənin versiya kontrolunun idarə olunması   |
+|4 |VSCode    |Layihədə istifadə edilən mətn redaktoru        |
 
 
 ## NÜMUNƏ EKRAN GÖRÜNTÜSÜ
