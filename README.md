@@ -4,7 +4,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 
-# MILLIONAIRE-GAME
+# THE-HUNTER-GAME
 
 Salam xoş gördük bu dəfə isə HTML-5 və CSS-3 vasitəsilə sadə bir oyun yazmışam. THE HUNTER GAME
 ## İSTİFADƏ QAYDASI
