@@ -1,0 +1,105 @@
+ * {
+
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ }
+
+ body {
+
+margin: 0;
+padding: 0;
+width: 100%;
+height: 100vh;
+background-image: url("../img/menu/user-face.jpg");
+background-repeat: no-repeat;
+
+ }
+
+.exit {
+width: 50px;
+height: 50px;
+background-color: transparent;
+float: right;
+border-radius: 40%;
+margin-right: 50px;
+margin-top: 20px;
+}
+
+.exit img {
+
+border-radius: 50%;
+
+}
+
+
+
+
+.content {
+
+width: 1000px;
+height: 700px;
+background-color:  grey;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+opacity: 0.7;
+
+}
+
+.content img {
+
+margin-left: 400px;
+
+}
+
+.profil {
+    width: 500px;
+    /* height: 200px; */
+/* float: right; */
+    margin-top: 40px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: red; */
+    padding-right: 400px;
+}
+
+.hidden {
+
+    width: 0px;
+   height: 0;
+}
+
+.input {
+    width: 500px;
+margin-top: 50px;
+/* background-color: red; */
+margin-left: auto;
+margin-right: auto;
+padding-left: 300px;
+line-height: 50px;
+
+}
+
+.input input {
+
+width: 300px;
+height: 35px;
+border-radius: 5px;
+
+}
+
+.submit {
+
+    width: 500px;
+    height: 150px;
+    /* background-color: red; */
+margin-top: 30px;
+}
+
+.submit img {
+
+border-radius: 5px;
+
+}
