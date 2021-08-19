@@ -31,7 +31,7 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 
 ## NÜMUNƏ EKRAN GÖRÜNTÜSÜ
 
-![Burada ekran görüntüsü var idi](../screen-img/screen-1.png)
+![Burada ekran görüntüsü var idi](./screen/screen-1.png)
 ![Burada ekran görüntüsü var idi](./screen-img/screen-2.png)
 ![Burada ekran görüntüsü var idi](./screen-img/screen-3.png)
 ![Burada ekran görüntüsü var idi](./screen-img/screen-4.png)
