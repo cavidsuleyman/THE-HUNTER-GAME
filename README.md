@@ -32,13 +32,13 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 ## NÜMUNƏ EKRAN GÖRÜNTÜSÜ
 
 ![Burada ekran görüntüsü var idi](./screen/screen-1.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-2.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-3.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-4.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-5.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-6.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-7.png)
-![Burada ekran görüntüsü var idi](./screen-img/screen-8.png)
+![Burada ekran görüntüsü var idi](./screen/screen-2.png)
+![Burada ekran görüntüsü var idi](./screen/screen-3.png)
+![Burada ekran görüntüsü var idi](./screen/screen-4.png)
+![Burada ekran görüntüsü var idi](./screen/screen-5.png)
+![Burada ekran görüntüsü var idi](./screen/screen-6.png)
+![Burada ekran görüntüsü var idi](./screen/screen-7.png)
+![Burada ekran görüntüsü var idi](./screen/screen-8.png)
 
 
 
