@@ -24,7 +24,7 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 |No|Texnika   |Təyinatı                                       |
 |--|----------|-----------------------------------------------|
 |1 |HTML      |Layihə skletinin qurulması                     | 
-|2 |CSS       |Layihənin versiya kontrolunun idarə olunması   |
+|2 |CSS       |Qurulan skletin makyaj edilməsi   |
 |3 |GİT       |Layihənin versiya kontrolunun idarə olunması   |
 |4 |VSCode    |Layihədə istifadə edilən mətn redaktoru        |
 
