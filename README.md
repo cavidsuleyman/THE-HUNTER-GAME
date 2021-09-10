@@ -7,8 +7,8 @@
 # THE-HUNTER-GAME
 
 Hi, this time I wrote a simple game using HTML-5 and CSS-3. THE HUNTER GAME
-## RULES OF USE
 
+## RULES OF USE
 
 > **STEP-1:** `https://github.com/cavidsuleyman/THE-HUNTER-GAME.git` <br/>
 > **STEP-2:**  enter the `THE HUNTER GAME` folder that appears <br/>
@@ -17,7 +17,7 @@ Hi, this time I wrote a simple game using HTML-5 and CSS-3. THE HUNTER GAME
 > **STEP-5:**  to download the project as `.zip`  [buraya](https://github.com/cavidsuleyman/THE-HUNTER-GAME/archive/refs/heads/master.zip) click edin <br/>
 
 
-## TEXNOLOGİYA
+## Technology
 
 This project was developed using the following technologies
 
