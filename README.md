@@ -22,14 +22,14 @@ Hi, this time I wrote a simple game using HTML-5 and CSS-3. THE HUNTER GAME
 This project was developed using the following technologies
 
 | No | Technique | Purpose |
-| - | ---------- | ----------------------------------- ------------ |
+| - | ---------- | --------------------- |
 | 1 | HTML | Building a project skeleton |
 | 2 | CSS | Make-up of the established skeleton |
 | 3 | GIT | Project version control management |
 | 4 | VSCode | Text editor used in the project |
 
 
-## NÜMUNƏ EKRAN GÖRÜNTÜSÜ
+## SAMPLE SCREEN APPEARANCE
 
 ![There was a screenshot here](./screen/screen-1.png)
 ![There was a screenshot here](./screen/screen-2.png)
