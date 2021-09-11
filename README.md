@@ -14,7 +14,7 @@ Hi, this time I wrote a simple game using HTML-5 and CSS-3. THE HUNTER GAME
 > **STEP-2:**  enter the `THE HUNTER GAME` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the `face-page.html` file in the main folder <br/>
-> **STEP-5:**  to download the project as `.zip`  [buraya](https://github.com/cavidsuleyman/THE-HUNTER-GAME/archive/refs/heads/master.zip) click edin <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/THE-HUNTER-GAME/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
